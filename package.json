@@ -1,0 +1,14 @@
+{
+  "name": "@test/test",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build"
+  },
+  "devDependencies": {
+    "@astrojs/renderer-vue": "^0.1.6",
+    "astro": "^0.18.5",
+    "tailwindcss": "^2.2.7"
+  }
+}
